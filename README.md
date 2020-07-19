@@ -1,5 +1,7 @@
 # Tableau Dashboards and Stories
 
+**Click on this [link](https://achatzia.github.io/Tableau/) for the site**.
+
 This Story is part of a simple project describing [Foreign Direct Investment](https://en.wikipedia.org/wiki/Foreign_direct_investment) in various economic sectors.
 In the tabs we can see :
 >- Which sectors received the maximum/minimum direct funding each year.
@@ -10,3 +12,4 @@ In the tabs we can see :
 >- If specific clusters can be identified in the data .
 >- A simple forecast of the investments for the following year .
 
+<iframe src="https://public.tableau.com/shared/Z48ZXKSR3?:display_count=y&:origin=viz_share_link" </iframe>

@@ -12,4 +12,4 @@ In the tabs we can see :
 >- If specific clusters can be identified in the data .
 >- A simple forecast of the investments for the following year .
 
-<iframe src="https://public.tableau.com/shared/Z48ZXKSR3?:showVizHome=no&:embed=true" width="645" height="955"></iframe>
+<iframe src="https://public.tableau.com/shared/Z48ZXKSR3?:showVizHome=no&:embed=true" width="1280" height="720"></iframe>

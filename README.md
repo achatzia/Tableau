@@ -20,6 +20,6 @@ The overall objective was to analyze the :
 >- The Year Over Year (**YOY**) profit .
 >- Finally to dive deeper into the data and find out which of the Sub-Categories had the highest/lowest profit,sales and cost.
 
-<iframe src="https://public.tableau.com/views/GlobalSuperstorePerformance_15952552894630/GlobalSuperstorePerformance?:showVizHome=no&:embed=true" width="1366" height="999"></iframe>
+<iframe src="https://public.tableau.com/views/GlobalSuperstorePerformance_15952552894630/GlobalSuperstorePerformance?:showVizHome=no&:embed=true" width="1280" height="999"></iframe>
 <br>
 From the "**Sales/Cost/Profit**" tab we can see that the subcategory Tables has a **loss** despite the heavy discount .Also exploring the "**Profit-Sales-Discount/Year**" tab we can see that the sales are increasing over time ,probably due to the large discount . 
